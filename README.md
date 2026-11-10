@@ -1,8 +1,6 @@
 # swift-eu-celex
 
-Use this package when you take a CELEX number, the identifier EUR-Lex gives each document, as text, such as `32004R0261`, and need its sector, year, document type and number, or a corrigendum's or consolidated version's suffix. Start from `CELEX`. A value that parses is well-formed. It is not necessarily assigned.
-
-The sector and document-type enums, `CELEX.Sector` and `CELEX.Descriptor`, are generated from the Publications Office's table [Types of documents in EUR-Lex](https://eur-lex.europa.eu/content/tools/TableOfSectors/types_of_documents_in_eurlex.html), as published on 10 November 2026: 12 sectors and 157 descriptors. The grammar follows the Publications Office's guide *How CELEX numbers are composed*, version 2025 of 1 September 2025.
+Use this package when you take a CELEX number, the identifier EUR-Lex gives each document, as text, such as `32004R0261`, and need its sector, year, document type and number, or a corrigendum's or consolidated version's suffix. Start from `CELEX`. A value that parses is well-formed. It is not necessarily assigned. The sector and document-type enums, `CELEX.Sector` and `CELEX.Descriptor`, are generated from the Publications Office's table [Types of documents in EUR-Lex](https://eur-lex.europa.eu/content/tools/TableOfSectors/types_of_documents_in_eurlex.html), as published on 10 November 2026: 12 sectors and 157 descriptors. The grammar follows the Publications Office's guide *How CELEX numbers are composed*, version 2025 of 1 September 2025.
 
 ## Laws
 
