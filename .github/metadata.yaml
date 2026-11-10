@@ -1,0 +1,11 @@
+# .github/metadata.yaml
+description: "Swift implementation of the CELEX number of the Publications Office of the European Union: 32004R0261, parsed and printed."
+topics:
+  - standards
+  - eu
+  - celex
+  - eur-lex
+  - legal-identifiers
+homepage: "https://swift-institute.org"
+readme:
+  family: E
